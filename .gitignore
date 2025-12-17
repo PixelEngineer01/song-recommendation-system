@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+# Ignore raw dataset
+data/spotify_millsongdata.csv
+data/cleaned_songs.csv
